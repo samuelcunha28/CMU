@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListAdapter</string>
+    <string name="textview1">TextView1</string>
+</resources>
